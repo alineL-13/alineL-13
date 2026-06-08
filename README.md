@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi! I'm Aline Ferreira 👋
 
-<!--
-**alineL-13/alineL-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on web applications and automations.
 
-Here are some ideas to get you started:
+Currently specializing in **Full Stack JavaScript**, with a focus on **React.js**, **Node.js**, and **PostgreSQL**, while developing internal applications and automation solutions at **CNH Industrial**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 💼 Digital Transformation Developer @ CNH Industrial  
+- 🎓 Bachelor's Degree in Software Engineering  
+- 🌱 Currently learning backend architecture, containerization, and full stack development
+
+---
+
+## 🖥️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"/><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55"/><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/><br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/><br>
+      <sub><b>SQL Server</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alinelopesferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alinelopesf13@gmail.com">
+    <img src="https://img.shields.io/badge/alinelopesf13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
