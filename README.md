@@ -58,6 +58,27 @@ Currently specializing in **Full Stack JavaScript**, with a focus on **React.js*
 
 ---
 
+## 🌎 Languages
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png" width="55"/><br>
+      <sub><b>Native</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="55"/><br>
+      <sub><b>Advanced</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/960px-Flag_of_France.svg.png" width="55"/><br>
+      <sub><b>Intermediate</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📫 Contact
 
 <p align="left">
